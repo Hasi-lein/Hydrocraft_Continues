@@ -1,0 +1,28 @@
+IGUI_TR = {
+
+	IGUI_CraftCategory_Ranching = "Hayvancılık",
+	IGUI_CraftCategory_Alchemy = "Simya",
+	IGUI_CraftCategory_Leisure = "Eğlence",
+	IGUI_CraftCategory_Weaving = "Dokumacılık",
+	IGUI_CraftCategory_Blacksmithing = "Demircilik",
+	IGUI_CraftCategory_Masonry = "Duvarcılık",
+	IGUI_CraftCategory_Pottery = "Çömlekçilik",
+	IGUI_CraftCategory_Stoneworking = "Taşçılık",
+	IGUI_CraftCategory_Glassworking = "Camcılık",
+	IGUI_CraftCategory_Research = "Araştırma",
+        IGUI_ItemCat_Toy = "Oyuncak",
+        IGUI_ItemCat_Trash = "Çöp",
+	IGUI_CraftCategory_Death = "Ölüm",
+        IGUI_CraftCategory_Reloading = "Şarjör Doldurma",
+	IGUI_CraftCategory_Loot = "Ganimet",
+	IGUI_CraftCategory_Trade = "Ticaret",
+	IGUI_CraftCategory_Firecraft = "Ateşçilik",
+	IGUI_CraftCategory_Terrain = "Arazi",
+	IGUI_CraftCategory_Armor = "Zırh",
+	IGUI_CraftCategory_Locksmithing = "Kilitçilik",
+	IGUI_ItemCat_Money = "Para",
+	IGUI_CraftCategory_Anchor = "Ankorlama",
+	IGUI_CraftCategory_Jewelry = "Takı",
+	IGUI_ItemCat_Mineral = "Mineral",
+
+}
