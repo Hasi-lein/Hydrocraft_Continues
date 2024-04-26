@@ -1,6 +1,6 @@
 version=1
-id=2778991696
-title=HydroCraft b41 Continued
+id=2081538550
+title=Hydrocraft XS
 description=[url=https://forms.gle/55hCSS6X811cCZ8m8] [h1][b] PLEASE PARTICIPATE IN THIS POLL TO IMPROVE THE MOD!  [/b][/h1] [/url]
 description=[h1]Latest Hydrocraft mod for b41 - for both MP & SP[/h1]
 description=[h1]recent update highlights 7-May-2023[/h1]
